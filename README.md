@@ -1,8 +1,8 @@
 # Mon portfolio
-<br>
 profil Github : https://github.com/Bertrand-Bichat
 <br>
 profil LinkedIn : https://fr.linkedin.com/in/bertrand-bichat
+<br>
 <br>
 projet Ludorent : https://ludorent.herokuapp.com/
 <br>
