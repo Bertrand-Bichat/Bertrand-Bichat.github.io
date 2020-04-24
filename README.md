@@ -1,14 +1,16 @@
-# Mon portfolio
-profil Github : https://github.com/Bertrand-Bichat
-<br>
-profil LinkedIn : https://fr.linkedin.com/in/bertrand-bichat
-<br>
-<br>
-projet Ludorent : https://ludorent.herokuapp.com/
-<br>
-projet LUDIN : https://www.ludin.fun/
-<br>
-mon blog : https://eveildesconsciences.fr/
-<br>
-mon compte Instagram : https://www.instagram.com/bertrand_bichat/
-<br>
+# My profiles
+
+* Github : https://github.com/Bertrand-Bichat
+
+* LinkedIn : https://fr.linkedin.com/in/bertrand-bichat
+
+# My projects
+* My portfolio (Github pages) : https://bertrand-bichat.github.io/
+
+* LUDIN (Ruby on Rails) : https://www.ludin.fun/
+
+* Ludorent (Ruby on Rails) : https://ludorent.herokuapp.com/
+
+* Markdown editor (React.js) : https://markdown-app-bertrand.herokuapp.com/
+
+* My blog (WordPress) : https://eveildesconsciences.fr/
