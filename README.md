@@ -5,9 +5,10 @@
 * LinkedIn : https://fr.linkedin.com/in/bertrand-bichat
 
 # My projects
+
 * My portfolio (Github pages) : https://bertrand-bichat.github.io/
 
-* LUDIN (Ruby on Rails) : https://www.ludin.fun/
+* LUDIN (Ruby on Rails) : https://ludin-copy.herokuapp.com/
 
 * Ludorent (Ruby on Rails) : https://ludorent.herokuapp.com/
 
