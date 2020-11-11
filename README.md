@@ -10,6 +10,8 @@
 
 * My portfolio (Github pages) : https://bertrand-bichat.github.io/
 
+* E-shop test (Shopify) : https://boutique-test-bertrand.myshopify.com/ (password = password)
+
 * HOLIVIA (Ruby on Rails) : https://www.holivia.fr/
 
 * LUDIN (Ruby on Rails) : https://ludin-copy.herokuapp.com/
