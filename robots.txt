@@ -1,5 +1,4 @@
-User-agent: *
-Allow: /index.html
-Disallow: /
-
 Sitemap: https://bertrand-bichat.github.io/sitemap.xml
+
+User-agent: *
+Disallow:

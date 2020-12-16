@@ -1,4 +1,4 @@
-# My profiles
+# Mes profils
 
 * Github : https://github.com/Bertrand-Bichat
 
@@ -6,11 +6,11 @@
 
 * Malt : https://www.malt.fr/profile/bertrandbichat
 
-# My projects
+# Mes projets
 
-* My portfolio (Github pages) : https://bertrand-bichat.github.io/
+* Mon portfolio (page Github) : https://bertrand-bichat.github.io/
 
-* E-shop test (Shopify) : https://boutique-test-bertrand.myshopify.com/ (password = password)
+* Boutique en ligne de test (Shopify) : https://boutique-test-bertrand.myshopify.com/ (mot de passe = password)
 
 * HOLIVIA (Ruby on Rails) : https://www.holivia.fr/
 
@@ -18,6 +18,6 @@
 
 * Ludorent (Ruby on Rails) : https://ludorent.herokuapp.com/
 
-* Markdown editor (React.js) : https://markdown-app-bertrand.herokuapp.com/
+* Editeur de Markdown (React.js) : https://markdown-app-bertrand.herokuapp.com/
 
-* My blog (WordPress) : https://eveildesconsciences.fr/
+* Mon blog (WordPress) : https://eveildesconsciences.fr/
