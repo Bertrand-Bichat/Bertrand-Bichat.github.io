@@ -12,7 +12,7 @@
 
 * Boutique en ligne de test (Shopify) : https://boutique-test-bertrand.myshopify.com/ (mot de passe = password)
 
-* HOLIVIA (Ruby on Rails) : https://www.holivia.fr/
+* HOLIVIA (Ruby on Rails) : https://app.holivia.fr/
 
 * LUDIN (Ruby on Rails) : https://ludin-copy.herokuapp.com/
 
