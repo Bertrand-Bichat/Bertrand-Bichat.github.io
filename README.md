@@ -12,11 +12,13 @@
 
 * SUNRYSE (Ruby on Rails) : https://www.sunryse.fr/
 
+* HOLIVIA (Ruby on Rails) : https://app.holivia.fr/
+
 * Mon portfolio (page Github) : https://bertrand-bichat.github.io/
 
-* Boutique en ligne de test (Shopify) : https://boutique-test-bertrand.myshopify.com/ (mot de passe = password)
+* Réplique de la boutique en ligne d'Epick Art Lab (Shopify) : https://formation-dv-marseille.myshopify.com/ (mot de passe = password)
 
-* HOLIVIA (Ruby on Rails) : https://app.holivia.fr/
+* Boutique en ligne de test (Shopify) : https://boutique-test-bertrand.myshopify.com/ (mot de passe = password)
 
 * LUDIN (Ruby on Rails) : https://ludin-copy.herokuapp.com/
 
