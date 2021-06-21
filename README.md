@@ -1,5 +1,7 @@
 # Mes profils
 
+* Linktr.ee : https://linktr.ee/bertrand.bichat
+
 * Github : https://github.com/Bertrand-Bichat
 
 * LinkedIn : https://fr.linkedin.com/in/bertrand-bichat
@@ -9,6 +11,12 @@
 * Malt (plateforme freelance) : https://www.malt.fr/profile/bertrandbichat
 
 # Mes projets
+
+* PWA test app (Ruby on Rails - Progressive Web Application) :
+  https://progressive-web-app-test.herokuapp.com/
+  https://github.com/Bertrand-Bichat/pwa-test
+
+* Test Rspec TDD with Ruby on Rails : https://github.com/Bertrand-Bichat/rspec-test
 
 * SUNRYSE (Ruby on Rails) : https://www.sunryse.fr/
 
