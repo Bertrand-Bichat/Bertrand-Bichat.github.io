@@ -13,9 +13,11 @@
 # Mes projets
 
 * API test app (Ruby on Rails) : https://api-test-website.herokuapp.com/
+
 https://github.com/Bertrand-Bichat/api-test
 
 * PWA test app (Ruby on Rails - Progressive Web Application) : https://progressive-web-app-test.herokuapp.com/
+
 https://github.com/Bertrand-Bichat/pwa-test
 
 * Test Rspec TDD with Ruby on Rails : https://github.com/Bertrand-Bichat/rspec-test
@@ -43,5 +45,3 @@ https://github.com/Bertrand-Bichat/pwa-test
 # Mes articles internet
 
 * Ruby on Rails, le framework adapté aux entreprises à budgets serrés : https://www.linkedin.com/pulse/tech-ruby-rails-le-framework-adapt%25C3%25A9-aux-entreprises-%25C3%25A0-bertrand-bichat
-
-<a href="https://eveildesconsciences.fr" target="_blank">My blog</a>
