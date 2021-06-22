@@ -13,12 +13,12 @@
 # Mes projets
 
 * API test app (Ruby on Rails) :
-  https://api-test-website.herokuapp.com/
-  https://github.com/Bertrand-Bichat/api-test
+https://api-test-website.herokuapp.com/
+https://github.com/Bertrand-Bichat/api-test
 
 * PWA test app (Ruby on Rails - Progressive Web Application) :
-  https://progressive-web-app-test.herokuapp.com/
-  https://github.com/Bertrand-Bichat/pwa-test
+https://progressive-web-app-test.herokuapp.com/
+https://github.com/Bertrand-Bichat/pwa-test
 
 * Test Rspec TDD with Ruby on Rails : https://github.com/Bertrand-Bichat/rspec-test
 
