@@ -12,6 +12,10 @@
 
 # Mes projets
 
+* Custom Ruby on Rails templates for `rails new` : https://github.com/Bertrand-Bichat/rails-templates/
+
+* Various templates (navbar, footer, French translation YAML files) : https://github.com/Bertrand-Bichat/awesome-navbars/
+
 * API test app (Ruby on Rails) : https://api-test-website.herokuapp.com/
 
 https://github.com/Bertrand-Bichat/api-test
