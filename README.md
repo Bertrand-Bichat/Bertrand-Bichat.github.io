@@ -1,4 +1,4 @@
-# Mes profils
+# Mes profils pro
 
 * Linktr.ee : https://linktr.ee/bertrand.bichat
 
@@ -12,19 +12,19 @@
 
 # Mes projets
 
-* Custom Ruby on Rails templates for `rails new` : https://github.com/Bertrand-Bichat/rails-templates/
+* Templates Ruby on Rails personnalisés pour `rails new` : https://github.com/Bertrand-Bichat/rails-templates/
 
-* Various templates (navbar, footer, French translation YAML files) : https://github.com/Bertrand-Bichat/awesome-navbars/
+* Divers templates (navbar, footer, fichiers YAML pour traduction en français) : https://github.com/Bertrand-Bichat/awesome-navbars/
 
-* API test app (Ruby on Rails) : https://api-test-website.herokuapp.com/
+* App de test pour API (Ruby on Rails) : https://api-test-website.herokuapp.com/
 
 https://github.com/Bertrand-Bichat/api-test
 
-* PWA test app (Ruby on Rails - Progressive Web Application) : https://progressive-web-app-test.herokuapp.com/
+* App de test pour PWA (Ruby on Rails - Progressive Web Application) : https://progressive-web-app-test.herokuapp.com/
 
 https://github.com/Bertrand-Bichat/pwa-test
 
-* Test Rspec TDD with Ruby on Rails : https://github.com/Bertrand-Bichat/rspec-test
+* App de démonstration pour tester le TDD avec Rspec sur Ruby on Rails : https://github.com/Bertrand-Bichat/rspec-test
 
 * SUNRYSE (Ruby on Rails) : https://www.sunryse.fr/
 
