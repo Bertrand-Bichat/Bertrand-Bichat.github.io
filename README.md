@@ -6,15 +6,19 @@
 
 * LinkedIn : https://fr.linkedin.com/in/bertrand-bichat
 
+* Medium : https://medium.com/@bertrand.bichat
+
 * Twitter : https://twitter.com/eveildesconscie
 
 * Malt (plateforme freelance) : https://www.malt.fr/profile/bertrandbichat
 
 # Mes projets
 
+* Koach & Co (Ruby on Rails) : https://www.koachandco.com/
+
 * Templates Ruby on Rails personnalisés pour `rails new` : https://github.com/Bertrand-Bichat/rails-templates/
 
-* Divers templates (navbar, footer, fichiers YAML pour traduction en français) : https://github.com/Bertrand-Bichat/awesome-navbars/
+* Divers templates de fichiers (navbar, footer, fichiers YAML pour traduction en français) : https://github.com/Bertrand-Bichat/awesome-navbars/
 
 * App de test pour API (Ruby on Rails) : https://api-test-website.herokuapp.com/
 
@@ -48,4 +52,6 @@ https://github.com/Bertrand-Bichat/pwa-test
 
 # Mes articles internet
 
-* Ruby on Rails, le framework adapté aux entreprises à budgets serrés : https://www.linkedin.com/pulse/tech-ruby-rails-le-framework-adapt%25C3%25A9-aux-entreprises-%25C3%25A0-bertrand-bichat
+* How to setup a Progressive Web Application on Rails 5.2 with a 100% performance in the Google Lighthouse ? https://medium.com/@bertrand.bichat/how-to-setup-a-progressive-web-application-on-rails-5-2-316ce69cac7
+
+* Ruby on Rails, le framework adapté aux entreprises à budgets serrés. https://www.linkedin.com/pulse/tech-ruby-rails-le-framework-adapt%25C3%25A9-aux-entreprises-%25C3%25A0-bertrand-bichat
