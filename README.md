@@ -16,6 +16,8 @@
 
 * Koach & Co (Ruby on Rails) : https://www.koachandco.com/
 
+* Secret Santa (Ruby on Rails) : https://tirages-au-sort-2.herokuapp.com/
+
 * Templates Ruby on Rails personnalisés pour `rails new` : https://github.com/Bertrand-Bichat/rails-templates/
 
 * Divers templates de fichiers (navbar, footer, fichiers YAML pour traduction en français) : https://github.com/Bertrand-Bichat/awesome-navbars/
