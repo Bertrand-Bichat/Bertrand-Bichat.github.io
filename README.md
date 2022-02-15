@@ -32,7 +32,7 @@ https://github.com/Bertrand-Bichat/pwa-test
 
 * App de démonstration pour tester le TDD avec Rspec sur Ruby on Rails : https://github.com/Bertrand-Bichat/rspec-test
 
-* SUNRYSE (Ruby on Rails) : https://www.sunryse.fr/
+* SUNRYSE (Ruby on Rails)
 
 * HOLIVIA (Ruby on Rails) : https://app.holivia.fr/
 
