@@ -14,6 +14,8 @@
 
 # Mes projets
 
+* App de démonstration pour tester le déploiement continue entre Github et Heroku + tester le pipeline Heroku entre staging et production : https://github.com/Bertrand-Bichat/test_app_bertrand
+
 * Koach & Co (Ruby on Rails) : https://www.koachandco.com/
 
 * Secret Santa (Ruby on Rails) : https://tirages-au-sort-2.herokuapp.com/
@@ -31,6 +33,8 @@ https://github.com/Bertrand-Bichat/api-test
 https://github.com/Bertrand-Bichat/pwa-test
 
 * App de démonstration pour tester le TDD avec Rspec sur Ruby on Rails : https://github.com/Bertrand-Bichat/rspec-test
+
+* App de démonstration pour tester le TDD avec Minitest sur Ruby on Rails + intégration continue avec Gitflow : https://github.com/Bertrand-Bichat/testing-project
 
 * SUNRYSE (Ruby on Rails)
 
