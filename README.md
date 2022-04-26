@@ -14,6 +14,8 @@
 
 # Mes projets
 
+* JANA concierge (Ruby on Rails) : https://www.jana-concierge.com/
+
 * App de démonstration pour tester le déploiement continue entre Github et Heroku + tester le pipeline Heroku entre staging et production : https://github.com/Bertrand-Bichat/test_app_bertrand
 
 * Koach & Co (Ruby on Rails) : https://www.koachandco.com/
@@ -57,6 +59,8 @@ https://github.com/Bertrand-Bichat/pwa-test
 * Mon blog (WordPress) : https://eveildesconsciences.fr/
 
 # Mes articles internet
+
+* Setup of Postmark webhook for Rails 5.2 app to know if an email has really been delivered https://medium.com/@bertrand.bichat/setup-of-postmark-webhook-for-rails-5-2-app-to-know-if-an-email-has-really-been-delivered-d82ea8a121f5
 
 * Postmark setup for sending emails with a Rails 5.2 production app hosted on Heroku https://medium.com/@bertrand.bichat/postmark-setup-for-sending-emails-with-a-rails-5-2-production-app-hosted-on-heroku-3130bdf6108d
 
