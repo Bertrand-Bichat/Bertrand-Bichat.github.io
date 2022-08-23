@@ -1,4 +1,4 @@
-# Mes profils pro
+# Mes profils professionnels
 
 * Linktr.ee : https://linktr.ee/bertrand.bichat
 
