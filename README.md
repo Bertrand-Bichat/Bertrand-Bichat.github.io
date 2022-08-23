@@ -16,9 +16,11 @@
 
 * JANA concierge (Ruby on Rails) : https://www.jana-concierge.com/
 
+* App de démonstration pour tester l'update live du DOM d'une page entière via ActionCable et Stimulus : https://github.com/Bertrand-Bichat/actioncable-demo
+
 * App de démonstration pour tester le déploiement continue entre Github et Heroku + tester le pipeline Heroku entre staging et production : https://github.com/Bertrand-Bichat/test_app_bertrand
 
-* Koach & Co (Ruby on Rails) : https://www.koachandco.com/
+* Koach & Co (Ruby on Rails) : https://github.com/claire-gtr/kotch
 
 * Secret Santa (Ruby on Rails) : https://tirages-au-sort-2.herokuapp.com/
 
@@ -38,17 +40,9 @@ https://github.com/Bertrand-Bichat/pwa-test
 
 * App de démonstration pour tester le TDD avec Minitest sur Ruby on Rails + intégration continue avec Gitflow : https://github.com/Bertrand-Bichat/testing-project
 
-* SUNRYSE (Ruby on Rails)
-
 * HOLIVIA (Ruby on Rails) : https://app.holivia.fr/
 
 * Mon portfolio (page Github) : https://bertrand-bichat.github.io/
-
-* Réplique de la boutique en ligne d'Epick Art Lab (Shopify) : https://formation-dv-marseille.myshopify.com/
-(mot de passe = password)
-
-* Boutique en ligne de test (Shopify) : https://boutique-test-bertrand.myshopify.com/
-(mot de passe = password)
 
 * LUDIN (Ruby on Rails) : https://ludin-copy.herokuapp.com/
 
@@ -59,6 +53,8 @@ https://github.com/Bertrand-Bichat/pwa-test
 * Mon blog (WordPress) : https://eveildesconsciences.fr/
 
 # Mes articles internet
+
+* Setup of ActionCable and Stimulus for Rails 6.1 to perform a live update of an entire page without hard refreshing : https://medium.com/@bertrand.bichat/setup-of-actioncable-and-stimulus-for-rails-6-1-to-perform-a-live-update-of-an-entire-page-5b3f63d46068
 
 * Setup of Postmark webhook for Rails 5.2 app to know if an email has really been delivered https://medium.com/@bertrand.bichat/setup-of-postmark-webhook-for-rails-5-2-app-to-know-if-an-email-has-really-been-delivered-d82ea8a121f5
 
