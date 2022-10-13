@@ -54,6 +54,8 @@ https://github.com/Bertrand-Bichat/pwa-test
 
 # Mes articles internet
 
+* How can I improve my efficiency in my work as a web developer? : https://medium.com/@bertrand.bichat/how-can-i-improve-my-efficiency-in-my-work-as-a-web-developer-1e3571e3d7ac
+
 * Setup of ActionCable and Stimulus for Rails 6.1 to perform a live update of an entire page without hard refreshing : https://medium.com/@bertrand.bichat/setup-of-actioncable-and-stimulus-for-rails-6-1-to-perform-a-live-update-of-an-entire-page-5b3f63d46068
 
 * Setup of Postmark webhook for Rails 5.2 app to know if an email has really been delivered https://medium.com/@bertrand.bichat/setup-of-postmark-webhook-for-rails-5-2-app-to-know-if-an-email-has-really-been-delivered-d82ea8a121f5
