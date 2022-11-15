@@ -22,17 +22,15 @@
 
 * Koach & Co (Ruby on Rails) : https://github.com/claire-gtr/kotch
 
-* Secret Santa (Ruby on Rails) : https://tirages-au-sort-2.herokuapp.com/
+* Secret Santa (Ruby on Rails) : https://tirages-au-sort.fly.dev/
 
 * Templates Ruby on Rails personnalisés pour `rails new` : https://github.com/Bertrand-Bichat/rails-templates/
 
 * Divers templates de fichiers (navbar, footer, fichiers YAML pour traduction en français) : https://github.com/Bertrand-Bichat/awesome-navbars/
 
-* App de test pour API (Ruby on Rails) : https://api-test-website.herokuapp.com/
+* App de test pour API (Ruby on Rails) : https://github.com/Bertrand-Bichat/api-test
 
-https://github.com/Bertrand-Bichat/api-test
-
-* App de test pour PWA (Ruby on Rails - Progressive Web Application) : https://progressive-web-app-test.herokuapp.com/
+* App de test pour PWA (Ruby on Rails - Progressive Web Application) : https://progressive-web-app-test.fly.dev/
 
 https://github.com/Bertrand-Bichat/pwa-test
 
@@ -46,9 +44,9 @@ https://github.com/Bertrand-Bichat/pwa-test
 
 * LUDIN (Ruby on Rails) : https://ludin-copy.herokuapp.com/
 
-* Ludorent (Ruby on Rails) : https://ludorent.herokuapp.com/
+* Ludorent (Ruby on Rails) : https://ludorent.fly.dev/
 
-* Editeur de Markdown (React.js) : https://markdown-app-bertrand.herokuapp.com/
+* Editeur de Markdown (React.js) : https://markdown-app-bertrand.fly.dev/
 
 * Mon blog (WordPress) : https://eveildesconsciences.fr/
 
