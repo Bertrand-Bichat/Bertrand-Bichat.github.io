@@ -14,6 +14,8 @@
 
 # Mes projets
 
+* Toucan Solutions (Ruby on Rails) : https://www.toucansolutions.ca/
+
 * JANA concierge (Ruby on Rails) : https://www.jana-concierge.com/
 
 * App de démonstration pour tester l'update live du DOM d'une page entière via ActionCable et Stimulus : https://github.com/Bertrand-Bichat/actioncable-demo
