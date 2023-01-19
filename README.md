@@ -14,8 +14,9 @@
 * JANA concierge (Ruby on Rails) : https://www.jana-concierge.com/
 * App de démonstration pour tester l'update live du DOM d'une page entière via ActionCable et Stimulus : https://github.com/Bertrand-Bichat/actioncable-demo
 * App de démonstration pour tester le déploiement continue entre Github et Heroku + tester le pipeline Heroku entre staging et production : https://github.com/Bertrand-Bichat/test_app_bertrand
-* Koach & Co (Ruby on Rails) : https://github.com/claire-gtr/kotch
+* Koach & Co (Ruby on Rails) : https://github.com/Bertrand-Bichat/kotch
 * Secret Santa (Ruby on Rails) : https://tirages-au-sort.fly.dev/
+* Sunryse (Ruby on Rails) : https://github.com/Bertrand-Bichat/Sunryse
 * Templates Ruby on Rails personnalisés pour `rails new` : https://github.com/Bertrand-Bichat/rails-templates/
 * Divers templates de fichiers (navbar, footer, fichiers YAML pour traduction en français) : https://github.com/Bertrand-Bichat/awesome-navbars/
 * App de test pour API (Ruby on Rails) : https://github.com/Bertrand-Bichat/api-test
