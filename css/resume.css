@@ -185,6 +185,8 @@ li.text {
   font-size: 1.5rem;
 }
 
-#social-links {
-  color: white !important;
+#social-links a {
+  display: inline-block;
+  color: #fff !important;
+  font-size: 1.25rem;
 }
