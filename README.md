@@ -36,6 +36,7 @@ https://github.com/Bertrand-Bichat/pwa-test
 
 # Mes articles internet
 
+* Setup of Sidekiq scheduler in a Rails app to plan a background job running once every day : https://medium.com/@bertrand.bichat/setup-of-sidekiq-redis-and-sidekiq-scheduler-in-a-rails-app-to-perform-asynchronous-actions-and-8fbe953297bb
 * Les outils que j’utilise dans mon activité de freelance : https://medium.com/@bertrand.bichat/les-outils-que-jutilise-dans-mon-activit%C3%A9-de-freelance-e0878c977fb1
 * How to optimize the SEO of a website created with Ruby on Rails ? : https://medium.com/@bertrand.bichat/how-to-optimize-the-seo-of-a-website-created-with-ruby-on-rails-bcbb1d309fa6
 * Comment optimiser ton profil LinkedIn quand tu es développeur web junior en freelance ? : https://medium.com/@bertrand.bichat/comment-optimiser-ton-profil-linkedin-quand-tu-es-d%C3%A9veloppeur-web-junior-en-freelance-a36f4307df57
