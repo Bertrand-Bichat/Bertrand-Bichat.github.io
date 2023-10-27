@@ -1,11 +1,11 @@
 # Mes profils professionnels
 
 * Linktr.ee : https://linktr.ee/bertrand.bichat
-* Github : https://github.com/Bertrand-Bichat
 * LinkedIn : https://fr.linkedin.com/in/bertrand-bichat
+* Github : https://github.com/Bertrand-Bichat
 * Medium : https://medium.com/@bertrand.bichat
-* Twitter : https://twitter.com/eveildesconscie
 * Malt (plateforme freelance) : https://www.malt.fr/profile/bertrandbichat
+* Collective.work (collectif de freelances) : https://les-rubyistes.collective.work/
 
 # Mes projets
 
