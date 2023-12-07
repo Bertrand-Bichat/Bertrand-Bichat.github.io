@@ -17,7 +17,6 @@
 * App de démonstration pour tester l'update live du DOM d'une page entière via ActionCable et Stimulus : https://github.com/Bertrand-Bichat/actioncable-demo
 * App de démonstration pour tester le déploiement continue entre Github et Heroku + tester le pipeline Heroku entre staging et production : https://github.com/Bertrand-Bichat/test_app_bertrand
 * Koach & Co (Ruby on Rails) : https://github.com/claire-gtr/kotch
-* Secret Santa (Ruby on Rails) : https://tirages-au-sort.fly.dev/
 * Zenith Patrimoine (Ruby on Rails) : https://github.com/Bertrand-Bichat/Zenith_patrimoine
 * Sunryse (Ruby on Rails) : https://github.com/Bertrand-Bichat/Sunryse
 * Templates Ruby on Rails personnalisés pour `rails new` : https://github.com/Bertrand-Bichat/rails-templates/
