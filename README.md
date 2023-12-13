@@ -5,35 +5,28 @@
 * Github : https://github.com/Bertrand-Bichat
 * Medium : https://medium.com/@bertrand.bichat
 * Malt (plateforme freelance) : https://www.malt.fr/profile/bertrandbichat
-* Collective.work (collectif de freelances) : https://les-rubyistes.collective.work/
 
 # Mes projets
 
 * Le p'tit observatoire (Ruby on Rails) : https://www.leptitobservatoire.fr/
 * Mootiv (Ruby on Rails) : https://mootiv.fr/
-* Repo de démonstration sur ce que j'ai déjà codé en Back-End : https://github.com/Bertrand-Bichat/portfolio-demo
 * Toucan Solutions (Ruby on Rails) : https://www.toucansolutions.ca/
 * JANA concierge (Ruby on Rails) : https://www.jana-concierge.com/
 * App de démonstration pour tester l'update live du DOM d'une page entière via ActionCable et Stimulus : https://github.com/Bertrand-Bichat/actioncable-demo
-* App de démonstration pour tester le déploiement continue entre Github et Heroku + tester le pipeline Heroku entre staging et production : https://github.com/Bertrand-Bichat/test_app_bertrand
 * Koach & Co (Ruby on Rails) : https://github.com/claire-gtr/kotch
 * Zenith Patrimoine (Ruby on Rails) : https://github.com/Bertrand-Bichat/Zenith_patrimoine
 * Sunryse (Ruby on Rails) : https://github.com/Bertrand-Bichat/Sunryse
 * Templates Ruby on Rails personnalisés pour `rails new` : https://github.com/Bertrand-Bichat/rails-templates/
 * Divers templates de fichiers (navbar, footer, fichiers YAML pour traduction en français) : https://github.com/Bertrand-Bichat/awesome-navbars/
-* App de test pour API (Ruby on Rails) : https://github.com/Bertrand-Bichat/api-test
 * App de test pour PWA (Ruby on Rails - Progressive Web Application) : https://progressive-web-app-test.fly.dev/
 
 https://github.com/Bertrand-Bichat/pwa-test
 
-* App de démonstration pour tester le TDD avec Rspec sur Ruby on Rails : https://github.com/Bertrand-Bichat/rspec-test
-* App de démonstration pour tester le TDD avec Minitest sur Ruby on Rails + intégration continue avec Gitflow : https://github.com/Bertrand-Bichat/testing-project
 * HOLIVIA (Ruby on Rails) : https://app.holivia.fr/
 * Mon portfolio (page Github) : https://bertrand-bichat.github.io/
 * LUDIN (Ruby on Rails) : https://ludin-copy.herokuapp.com/
 * Ludorent (Ruby on Rails) : https://ludorent.fly.dev/
 * Editeur de Markdown (React.js) : https://markdown-app-bertrand.fly.dev/
-* Mon blog (WordPress) : https://eveildesconsciences.fr/
 
 # Mes articles internet
 
