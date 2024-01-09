@@ -4583,6 +4583,7 @@ input[type=submit].btn-block {
 .navbar-nav {
   display: -ms-flexbox;
   display: flex;
+  justify-content: start;
   -ms-flex-direction: column;
   flex-direction: column;
   padding-left: 0;
