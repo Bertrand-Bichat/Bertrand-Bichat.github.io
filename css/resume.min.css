@@ -139,6 +139,17 @@ p.lead {
   }
 }
 
+@media (max-width:991px) {
+  #sideNav {
+    flex-direction: row;
+  }
+
+  #sideNav .navbar-collapse .navbar-nav {
+    flex-direction: row;
+    justify-content: center;
+  }
+}
+
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
