@@ -204,13 +204,13 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #bd5d38
+  color: blue;
 }
 
 a:active,
 a:focus,
 a:hover {
-  color: #824027
+  color: blue;
 }
 
 .font-bigger {
@@ -239,4 +239,9 @@ li.text {
   display: inline-block;
   color: #fff !important;
   font-size: 1.25rem;
+}
+
+.pro-links {
+  font-weight: 500;
+  font-size: 1.1rem;
 }
