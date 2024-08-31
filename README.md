@@ -8,6 +8,7 @@
 
 # Mes projets
 
+* LETO (conformité RGPD pour les PME) : https://www.leto.legal/
 * Le p'tit observatoire (Ruby on Rails) : https://www.leptitobservatoire.fr/
 * Mootiv (Ruby on Rails) : https://mootiv.fr/
 * Toucan Solutions (Ruby on Rails) : https://www.toucansolutions.ca/
