@@ -1,0 +1,10 @@
+@import "variables.scss";
+@import "mixins.scss";
+@import "global.scss";
+@import "nav.scss";
+@import "resume-item.scss";
+@import "bootstrap-overrides.scss";
+
+.font-bigger {
+  font-size: 1.1rem;
+}
