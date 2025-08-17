@@ -1,0 +1,18 @@
+# Bienvenue sur mon site web personnel
+
+Ici, vous trouverez des informations sur mes projets, mes centres d'intérêt et mes réalisations.
+
+## Liens utiles
+
+- [Accueil, mon offre, avis clients](https://bertrand-bichat.github.io/)
+- [Portfolio](https://bertrand-bichat.github.io/portfolio)
+- [Mentions légales](https://bertrand-bichat.github.io/legals)
+- [Sitemap](https://bertrand-bichat.github.io/sitemap.xml)
+- [Prendre un rendez-vous](https://calendly.com/bertrand-bichat/rdv-gratuit)
+- [Linktr.ee (tous mes réseaux pro)](https://linktr.ee/bertrand.bichat)
+
+---
+
+> N'hésitez pas à me contacter pour toute question ou collaboration.
+
+---
