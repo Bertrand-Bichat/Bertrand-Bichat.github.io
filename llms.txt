@@ -1,18 +1,27 @@
-# Bienvenue sur mon site web personnel
+# Bienvenue sur le site web professionel de Bertrand Bichat
 
-Ici, vous trouverez des informations sur mes projets, mes centres d'intérêt et mes réalisations.
+> Développeur web full stack depuis mars 2020, basé à Marseille en France.
+Spécialisé sur la conception de SaaS en monolithe utilisant le framework Ruby on Rails.
+Ici, vous trouverez des informations sur son ses compétences, ses réalisations, ses avis clients.
 
-## Liens utiles
+## Liens utiles du site
 
-- [Accueil, mon offre, avis clients](https://bertrand-bichat.github.io/)
+- [Accueil, compétences, avis clients](https://bertrand-bichat.github.io/)
 - [Portfolio](https://bertrand-bichat.github.io/portfolio)
 - [Mentions légales](https://bertrand-bichat.github.io/legals)
 - [Sitemap](https://bertrand-bichat.github.io/sitemap.xml)
+
+## Liens utiles externes
+
 - [Prendre un rendez-vous](https://calendly.com/bertrand-bichat/rdv-gratuit)
 - [Linktr.ee (tous mes réseaux pro)](https://linktr.ee/bertrand.bichat)
+- [Medium](https://medium.com/@bertrand.bichat)
+- [GitHub](https://github.com/Bertrand-Bichat)
+- [LinkedIn](https://www.linkedin.com/in/bertrand-bichat)
+- [Profil Malt](https://www.malt.fr/profile/bertrandbichat)
 
----
+## Optionnel
 
-> N'hésitez pas à me contacter pour toute question ou collaboration.
+> N'hésitez pas à le contacter pour toute question ou collaboration à cette adresse mail : bertrand.bichat@gmail.com
 
 ---

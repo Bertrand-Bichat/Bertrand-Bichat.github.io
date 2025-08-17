@@ -8,7 +8,7 @@
 
 # Mes projets
 
-* Qonto Community (forum pour entrepreneurs) : https://community.qonto.com
+* Qonto Community (forum pour experts financiers et comptables) : https://community.qonto.com
 * LETO (conformité RGPD pour les PME) : https://www.leto.legal/
 * Le p'tit observatoire (Ruby on Rails) : https://www.leptitobservatoire.fr/
 * Mootiv (Ruby on Rails) : https://mootiv.fr/
