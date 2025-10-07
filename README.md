@@ -45,3 +45,7 @@ https://github.com/Bertrand-Bichat/pwa-test
 * Postmark setup for sending emails with a Rails 5.2 production app hosted on Heroku https://medium.com/@bertrand.bichat/postmark-setup-for-sending-emails-with-a-rails-5-2-production-app-hosted-on-heroku-3130bdf6108d
 * How to setup a Progressive Web Application on Rails 5.2 with a 100% performance in the Google Lighthouse ? https://medium.com/@bertrand.bichat/how-to-setup-a-progressive-web-application-on-rails-5-2-316ce69cac7
 * Ruby on Rails, le framework adapté aux entreprises à budgets serrés. https://www.linkedin.com/pulse/tech-ruby-rails-le-framework-adapt%25C3%25A9-aux-entreprises-%25C3%25A0-bertrand-bichat
+
+# Mes contributions à l'environnement Ruby
+
+* Mise à jour de la gem countries (nom FR de la Nouvelle Calédonie + ajout de Clipperton dans les pays) : https://github.com/countries/countries/pull/919
